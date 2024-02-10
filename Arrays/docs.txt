@@ -1,0 +1,23 @@
+#array
+
+1> Numeric array
+2> Associative array (key => Value)
+3> Multidimensiional array
+
+
+$arr = array(1,2,3,4);
+$arr = array("Ram ","Sudershan","khadka");
+
+
+//associative array 
+
+$salary = array("Ram"=>12321);
+//to acces the value
+$salary[Ram];
+
+
+
+//multi d array
+
+$course = array("BCA"=>array("SL","NM","OS")
+                "CSIT"=>array("SL","TOH","MI"));

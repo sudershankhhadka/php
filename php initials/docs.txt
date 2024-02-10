@@ -1,0 +1,23 @@
+1>Wap to set some values in a variable and delete the set value.
+2>Wap to define constant varaible PI and calculate the area of the circle.
+3>Wap to swap the value of two variable.
+4>Wap to display odd and even number below 50.
+5>Wap to dsplay multiplication table of 12.
+6>Wap to display "You are ready for the SEE exam .", if the age is between 15-17.
+7>Arithmetic operation in character variable .$d = A00. Use this variable to display 
+
+A01
+A02
+A03
+A04
+
+
+
+
+---> Arrays
+
+1> Wap to store the following details in an array and display the following :
+
+RAM  KTM    BCA     30000
+SHYAM   BKT     CSIT    40000
+HARI    PKR     BBS     10000
