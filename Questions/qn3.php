@@ -9,7 +9,7 @@ $var1 = $var2;
 $var2 = $temp;
 
 echo  $var1, $var2;
-
+//ok
 
 
 ?>
